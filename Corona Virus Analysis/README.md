@@ -1,6 +1,18 @@
 # Corona-Virus-Analysis-MySQL
 
-## Project Overview
+Welcome to the project! Below is an overview of the contents.
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Dataset](#dataset)
+- [Tools](#tools)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Some Interesting Queries](#some-interesting-queries)
+- [Insights](#insights)
+
+### Project Overview
 
 The CORONA VIRUS pandemic has had a significant impact on public health and has created an urgent need for data-driven insights to understand the spread of the virus. As a data analyst, I have been tasked with analyzing a corona virus dataset to derive meaningful insights and present my findings.
 
