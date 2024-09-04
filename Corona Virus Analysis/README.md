@@ -4,6 +4,9 @@
 
 The CORONA VIRUS pandemic has had a significant impact on public health and has created an urgent need for data-driven insights to understand the spread of the virus. As a data analyst, I have been tasked with analyzing a corona virus dataset to derive meaningful insights and present my findings.
 
+![Picture](https://github.com/user-attachments/assets/e3a489eb-edcd-4735-bc6a-2627c5d743e0)
+
+
 ### Data Sources 
 
 - **Raw Data:** The primary dataset used for this analysis is "Corona Virus Dataset.csv" file.
@@ -12,7 +15,7 @@ The CORONA VIRUS pandemic has had a significant impact on public health and has 
 
 #### Description of each column in dataset:
 
-- **Province:** Geographic subdivision within a country/region.
+- **Province:** Geographic subdivision within a country/region.          
 - **Country/Region:** Geographic entity where data is recorded.
 - **Latitude:** North-south position on Earth's surface.
 - **Longitude:** East-west position on Earth's surface.
