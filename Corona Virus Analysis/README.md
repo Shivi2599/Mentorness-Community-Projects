@@ -11,6 +11,7 @@ Welcome to the project! Below is an overview of the contents.
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Some Interesting Queries](#some-interesting-queries)
 - [Insights](#insights)
+- [Results](#results)
 
 ### Project Overview
 
@@ -21,7 +22,7 @@ The CORONA VIRUS pandemic has had a significant impact on public health and has 
 
 ### Data Sources 
 
-- **Raw Data:** The primary dataset used for this analysis is "Corona Virus Dataset.csv" file.
+- **Raw Data:** The primary dataset used for this analysis is [Corona Virus Dataset.csv](https://github.com/user-attachments/files/16886095/Corona.Virus.Dataset.csv)  file.
 
 ### Dataset
 
@@ -143,4 +144,6 @@ LIMIT 5;
 -  India, Brazil, and the United States led in recovery rates, reflecting effective healthcare responses.
 
 
+### Results 
 
+The final report can be found in [Corona virus.pptx](https://github.com/user-attachments/files/16886126/Corona.virus.pptx)
