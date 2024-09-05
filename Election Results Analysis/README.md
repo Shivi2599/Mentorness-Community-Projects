@@ -33,7 +33,8 @@ outcomes and the dynamics between different political alliances.
 
 ### Dataset Description
 
-- **Election Results Data:**
+- #### Election Results Data:
+  
   - **_id:** Unique identifier for each record.
   - **Const. No.:** Constituency number.
   - **State:** Name of the state.
@@ -45,7 +46,9 @@ outcomes and the dynamics between different political alliances.
   - **Trailing Party:** Name of the trailing party.
   - **Margin:** Vote margin between the leading and trailing candidates.
   - **Status:** Status of the election result (e.g., Won, Lost, Leading, Trailing).
+    
 - **Party Alliance Data:**
+  
   - **Party Name:** Name of the political party.
   - **Alliance Name:** Name of the political alliance the party belongs to.  
 
@@ -89,6 +92,10 @@ outcomes and the dynamics between different political alliances.
   - NDA won 46.49% overall seats.
   - INDIA won 38.75% seats.
   - Independent won 14.76% seats.
+- **Competition Analysis**
+   - **Uttar Pradesh:** Highest competition between BJP and Samajwadi Party.
+   - **Maharashtra:** Second-highest competition observed.
+   - **Sikkim:** Lowest competition among constituencies.
 
 ### Recommendations
 
