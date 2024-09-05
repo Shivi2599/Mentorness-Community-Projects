@@ -1,4 +1,4 @@
-# Election Results Analysis
+[Election dataset 2024.csv](https://github.com/user-attachments/files/16886181/Election.dataset.2024.csv)# Election Results Analysis
 
 Analysis of 2024 Election Data using Power BI
 
@@ -11,9 +11,13 @@ outcomes and the dynamics between different political alliances.
 
 ### Data Used
 
-- Alliance.xlsx
-- Election dataset 2024.csv
+- [Alliance.xlsx](https://github.com/user-attachments/files/16886154/Alliance.xlsx)
 
+- [Election dataset 2024.csv](https://github.com/user-attachments/files/16886183/Election.dataset.2024.csv)
+
+### Merged Data 
+
+- 
 ### Dataset Description
 
 - **Election Results Data:**
